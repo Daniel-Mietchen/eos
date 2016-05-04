@@ -1,4 +1,4 @@
-Open Science and Open Research have joined the ranks of buzzwords, yet the underlying practice of actually sharing the research process rather than an abbreviated narrative thereof is not widely practiced yet.
+Open Science and Open Research have joined the ranks of buzzwords, yet the underlying practice of actually sharing the research process rather than &mdash; or in addition to &mdash; an abbreviated narrative thereof is not widely practiced yet.
 
 In this repo, I am planning to collect some information as to
 
